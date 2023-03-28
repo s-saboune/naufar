@@ -1,0 +1,79 @@
+Log created: 2022-09-07 09:22:48
+Type: backup
+[2022-09-07 09:22:53][notice]Start backing up.
+[2022-09-07 09:22:53][notice]server info fcgi:On max execution time: 900 wp version:6.0.2 php version:7.4.28 db version:5.6.47.0 php ini:safe_mode: memory_limit:256M memory_get_usage:16.25 MB memory_get_peak_usage:16.34 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-09-07 09:22:53][notice]Prepare to backup backup_db files.
+[2022-09-07 09:22:53][notice]Start exporting database.
+[2022-09-07 09:22:54][notice]Preparing to dump table wpov_actionscheduler_actions
+[2022-09-07 09:22:54][notice]Preparing to dump table wpov_actionscheduler_claims
+[2022-09-07 09:22:54][notice]Preparing to dump table wpov_actionscheduler_groups
+[2022-09-07 09:22:54][notice]Preparing to dump table wpov_actionscheduler_logs
+[2022-09-07 09:22:55][notice]Preparing to dump table wpov_aiowps_debug_log
+[2022-09-07 09:22:55][notice]Preparing to dump table wpov_aiowps_events
+[2022-09-07 09:22:55][notice]Preparing to dump table wpov_aiowps_failed_logins
+[2022-09-07 09:23:08][notice]Preparing to dump table wpov_aiowps_global_meta
+[2022-09-07 09:23:08][notice]Preparing to dump table wpov_aiowps_login_activity
+[2022-09-07 09:23:08][notice]Preparing to dump table wpov_aiowps_login_lockdown
+[2022-09-07 09:23:08][notice]Preparing to dump table wpov_aiowps_permanent_block
+[2022-09-07 09:23:08][notice]Preparing to dump table wpov_commentmeta
+[2022-09-07 09:23:08][notice]Preparing to dump table wpov_comments
+[2022-09-07 09:23:08][notice]Preparing to dump table wpov_cptch_images
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_cptch_packages
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_cptch_responses
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_duplicator_packages
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_e_events
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_gmedia
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_gmedia_log
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_gmedia_meta
+[2022-09-07 09:23:09][notice]Preparing to dump table wpov_gmedia_term
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_gmedia_term_meta
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_gmedia_term_relationships
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_links
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_loginizer_logs
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_nextend2_image_storage
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_nextend2_section_storage
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_nextend2_smartslider3_generators
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_nextend2_smartslider3_sliders
+[2022-09-07 09:23:10][notice]Preparing to dump table wpov_nextend2_smartslider3_sliders_xref
+[2022-09-07 09:23:11][notice]Preparing to dump table wpov_nextend2_smartslider3_slides
+[2022-09-07 09:23:12][notice]Preparing to dump table wpov_options
+[2022-09-07 09:23:17][notice]Preparing to dump table wpov_podsrel
+[2022-09-07 09:23:17][notice]Preparing to dump table wpov_postmeta
+[2022-09-07 09:24:28][notice]Preparing to dump table wpov_posts
+[2022-09-07 09:24:41][notice]Preparing to dump table wpov_revslider_css
+[2022-09-07 09:24:41][notice]Preparing to dump table wpov_revslider_css_bkp
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_layer_animations
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_layer_animations_bkp
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_navigations
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_navigations_bkp
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_sliders
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_sliders_bkp
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_slides
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_slides_bkp
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_static_slides
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_revslider_static_slides_bkp
+[2022-09-07 09:24:43][notice]Preparing to dump table wpov_term_relationships
+[2022-09-07 09:24:50][notice]Preparing to dump table wpov_term_taxonomy
+[2022-09-07 09:24:50][notice]Preparing to dump table wpov_termmeta
+[2022-09-07 09:24:50][notice]Preparing to dump table wpov_terms
+[2022-09-07 09:24:51][notice]Preparing to dump table wpov_usermeta
+[2022-09-07 09:24:51][notice]Preparing to dump table wpov_users
+[2022-09-07 09:24:51][notice]Preparing to dump table wpov_wpforms_tasks_meta
+[2022-09-07 09:24:51][notice]Preparing to dump table wpov_wpvivid_scan_result
+[2022-09-07 09:24:51][notice]Preparing to dump table wpov_wpvivid_unused_uploads_files
+[2022-09-07 09:24:51][notice]Exporting database finished.
+[2022-09-07 09:24:51][notice]Start compressing backup_db
+[2022-09-07 09:24:51][notice]Prepare to zip files. file: www.naufar.com_wpvivid-631862e7e3d2c_2022-09-07-09-22_backup_db.zip
+[2022-09-07 09:25:01][notice]Adding zip files completed.www.naufar.com_wpvivid-631862e7e3d2c_2022-09-07-09-22_backup_db.zip, filesize: 2.25 MB
+[2022-09-07 09:25:01][notice]Compressing backup_db completed
+[2022-09-07 09:25:01][notice]Backing up backup_db completed.
+[2022-09-07 09:25:01][notice]Prepare to backup backup_merge files.
+[2022-09-07 09:25:01][notice]File number: 1
+[2022-09-07 09:25:01][notice]Start compressing backup_merge
+[2022-09-07 09:25:01][notice]Prepare to zip files. file: www.naufar.com_wpvivid-631862e7e3d2c_2022-09-07-09-22_backup_all.zip
+[2022-09-07 09:25:04][notice]Adding zip files completed.www.naufar.com_wpvivid-631862e7e3d2c_2022-09-07-09-22_backup_all.zip, filesize: 2.25 MB
+[2022-09-07 09:25:04][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-631862e7e3d2c_2022-09-07-09-22_backup_db.zip
+[2022-09-07 09:25:04][notice]Compressing backup_merge completed
+[2022-09-07 09:25:04][notice]Backing up backup_merge completed.
+[2022-09-07 09:25:04][notice]Backup completed.
+[2022-09-07 09:25:04][notice]Backup succeeded.

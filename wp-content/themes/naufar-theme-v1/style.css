@@ -1,0 +1,34 @@
+Theme Name: Naufar-Theme-v1
+Theme URI: 
+Author: Grey
+Author URI: http://grey.com/
+Description: .
+Tags: 
+Version: v1
+*/
+
+img.alignright { float: right; margin: 5px 5px 5px 5px; }
+img.alignleft { float: left; margin: 5px 5px 5px 5px; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; margin: 5px 5px 5px 5px;}
+.alignleft { float: left; margin: 5px 5px 5px 5px;}
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+
+#wpsm_team_3_b_row_700 .wpsm_team_3_member_wrapper_inner h3 {
+   
+    font-family: Gotham-Rounded-Medium!important;
+}
+
+div.wpforms-container-full .wpforms-form .wpforms-field-label {
+	color: #fff!important; }
+
+.wpforms-confirmation-container-full p:last-of-type, div[submit-success]>.wpforms-confirmation-container-full p:last-of-type {
+    
+    color: #fff;
+}
+
+.wpforms-confirmation-container-full, div[submit-success]>.wpforms-confirmation-container-full:not(.wpforms-redirection-message) {
+    background: #009ca6 !important;
+    border: 1px solid #009ca6 !important;
+   
+}

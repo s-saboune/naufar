@@ -1,0 +1,164 @@
+Log created: 2022-10-09 00:00:24
+Type: backup
+[2022-10-09 00:00:44][notice]Start backing up.
+[2022-10-09 00:00:44][notice]server info fcgi:On max execution time: 900 wp version:6.0.2 php version:7.4.30 db version:5.6.47.0 php ini:safe_mode: memory_limit:256M memory_get_usage:14.51 MB memory_get_peak_usage:23.95 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-10-09 00:00:45][notice]Prepare to backup backup_db files.
+[2022-10-09 00:00:45][notice]Start exporting database.
+[2022-10-09 00:00:45][notice]Preparing to dump table wpov_actionscheduler_actions
+[2022-10-09 00:00:45][notice]Preparing to dump table wpov_actionscheduler_claims
+[2022-10-09 00:00:46][notice]Preparing to dump table wpov_actionscheduler_groups
+[2022-10-09 00:00:46][notice]Preparing to dump table wpov_actionscheduler_logs
+[2022-10-09 00:00:46][notice]Preparing to dump table wpov_aiowps_debug_log
+[2022-10-09 00:00:47][notice]Preparing to dump table wpov_aiowps_events
+[2022-10-09 00:00:47][notice]Preparing to dump table wpov_aiowps_failed_logins
+[2022-10-09 00:00:54][notice]Preparing to dump table wpov_aiowps_global_meta
+[2022-10-09 00:00:54][notice]Preparing to dump table wpov_aiowps_login_activity
+[2022-10-09 00:00:54][notice]Preparing to dump table wpov_aiowps_login_lockdown
+[2022-10-09 00:00:54][notice]Preparing to dump table wpov_aiowps_permanent_block
+[2022-10-09 00:00:55][notice]Preparing to dump table wpov_commentmeta
+[2022-10-09 00:00:55][notice]Preparing to dump table wpov_comments
+[2022-10-09 00:00:55][notice]Preparing to dump table wpov_cptch_images
+[2022-10-09 00:00:56][notice]Preparing to dump table wpov_cptch_packages
+[2022-10-09 00:00:56][notice]Preparing to dump table wpov_cptch_responses
+[2022-10-09 00:00:56][notice]Preparing to dump table wpov_duplicator_packages
+[2022-10-09 00:00:57][notice]Preparing to dump table wpov_e_events
+[2022-10-09 00:00:57][notice]Preparing to dump table wpov_gmedia
+[2022-10-09 00:00:57][notice]Preparing to dump table wpov_gmedia_log
+[2022-10-09 00:00:57][notice]Preparing to dump table wpov_gmedia_meta
+[2022-10-09 00:00:58][notice]Preparing to dump table wpov_gmedia_term
+[2022-10-09 00:00:58][notice]Preparing to dump table wpov_gmedia_term_meta
+[2022-10-09 00:00:58][notice]Preparing to dump table wpov_gmedia_term_relationships
+[2022-10-09 00:00:59][notice]Preparing to dump table wpov_links
+[2022-10-09 00:00:59][notice]Preparing to dump table wpov_loginizer_logs
+[2022-10-09 00:00:59][notice]Preparing to dump table wpov_nextend2_image_storage
+[2022-10-09 00:01:00][notice]Preparing to dump table wpov_nextend2_section_storage
+[2022-10-09 00:01:00][notice]Preparing to dump table wpov_nextend2_smartslider3_generators
+[2022-10-09 00:01:01][notice]Preparing to dump table wpov_nextend2_smartslider3_sliders
+[2022-10-09 00:01:01][notice]Preparing to dump table wpov_nextend2_smartslider3_sliders_xref
+[2022-10-09 00:01:01][notice]Preparing to dump table wpov_nextend2_smartslider3_slides
+[2022-10-09 00:01:01][notice]Preparing to dump table wpov_options
+[2022-10-09 00:01:03][notice]Preparing to dump table wpov_podsrel
+[2022-10-09 00:01:03][notice]Preparing to dump table wpov_postmeta
+[2022-10-09 00:01:21][notice]Preparing to dump table wpov_posts
+[2022-10-09 00:01:29][notice]Preparing to dump table wpov_revslider_css
+[2022-10-09 00:01:30][notice]Preparing to dump table wpov_revslider_css_bkp
+[2022-10-09 00:01:30][notice]Preparing to dump table wpov_revslider_layer_animations
+[2022-10-09 00:01:31][notice]Preparing to dump table wpov_revslider_layer_animations_bkp
+[2022-10-09 00:01:31][notice]Preparing to dump table wpov_revslider_navigations
+[2022-10-09 00:01:31][notice]Preparing to dump table wpov_revslider_navigations_bkp
+[2022-10-09 00:01:32][notice]Preparing to dump table wpov_revslider_sliders
+[2022-10-09 00:01:32][notice]Preparing to dump table wpov_revslider_sliders_bkp
+[2022-10-09 00:01:32][notice]Preparing to dump table wpov_revslider_slides
+[2022-10-09 00:01:33][notice]Preparing to dump table wpov_revslider_slides_bkp
+[2022-10-09 00:01:33][notice]Preparing to dump table wpov_revslider_static_slides
+[2022-10-09 00:01:33][notice]Preparing to dump table wpov_revslider_static_slides_bkp
+[2022-10-09 00:01:33][notice]Preparing to dump table wpov_term_relationships
+[2022-10-09 00:01:34][notice]Preparing to dump table wpov_term_taxonomy
+[2022-10-09 00:01:34][notice]Preparing to dump table wpov_termmeta
+[2022-10-09 00:01:35][notice]Preparing to dump table wpov_terms
+[2022-10-09 00:01:35][notice]Preparing to dump table wpov_usermeta
+[2022-10-09 00:01:35][notice]Preparing to dump table wpov_users
+[2022-10-09 00:01:36][notice]Preparing to dump table wpov_wpforms_tasks_meta
+[2022-10-09 00:01:36][notice]Preparing to dump table wpov_wpvivid_scan_result
+[2022-10-09 00:01:36][notice]Preparing to dump table wpov_wpvivid_unused_uploads_files
+[2022-10-09 00:01:37][notice]Exporting database finished.
+[2022-10-09 00:01:37][notice]Start compressing backup_db
+[2022-10-09 00:01:37][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_db.zip
+[2022-10-09 00:01:40][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_db.zip, filesize: 1.86 MB
+[2022-10-09 00:01:40][notice]Compressing backup_db completed
+[2022-10-09 00:01:40][notice]Backing up backup_db completed.
+[2022-10-09 00:01:43][notice]Prepare to backup backup_themes files.
+[2022-10-09 00:01:43][notice]File number: 602
+[2022-10-09 00:01:43][notice]Start compressing backup_themes
+[2022-10-09 00:01:50][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_themes.zip
+[2022-10-09 00:02:04][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_themes.zip, filesize: 23.08 MB
+[2022-10-09 00:02:04][notice]Compressing backup_themes completed
+[2022-10-09 00:02:04][notice]Backing up backup_themes completed.
+[2022-10-09 00:02:52][notice]Prepare to backup backup_plugin files.
+[2022-10-09 00:02:52][notice]File number: 11699
+[2022-10-09 00:02:52][notice]Start compressing backup_plugin
+[2022-10-09 00:06:19][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_plugin.zip
+[2022-10-09 00:09:08][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_plugin.zip, filesize: 166.25 MB
+[2022-10-09 00:09:08][notice]Compressing backup_plugin completed
+[2022-10-09 00:09:08][notice]Backing up backup_plugin completed.
+[2022-10-09 00:09:14][notice]Prepare to backup backup_uploads files.
+[2022-10-09 00:09:14][notice]File number: 1692
+[2022-10-09 00:09:14][notice]Start compressing backup_uploads
+[2022-10-09 00:09:40][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_uploads.part001.zip
+[2022-10-09 00:10:04][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_uploads.part001.zip, filesize: 199.85 MB
+[2022-10-09 00:10:04][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_uploads.part002.zip
+[2022-10-09 00:10:35][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_uploads.part002.zip, filesize: 68.98 MB
+[2022-10-09 00:10:35][notice]Compressing backup_uploads completed
+[2022-10-09 00:10:35][notice]Backing up backup_uploads completed.
+[2022-10-09 00:10:36][notice]Prepare to backup backup_content files.
+[2022-10-09 00:10:36][notice]File number: 115
+[2022-10-09 00:10:36][notice]Start compressing backup_content
+[2022-10-09 00:10:37][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_content.zip
+[2022-10-09 00:10:39][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_content.zip, filesize: 4.42 MB
+[2022-10-09 00:10:39][notice]Compressing backup_content completed
+[2022-10-09 00:10:39][notice]Backing up backup_content completed.
+[2022-10-09 00:10:48][notice]Prepare to backup backup_core files.
+[2022-10-09 00:10:48][notice]File number: 2490
+[2022-10-09 00:10:48][notice]Start compressing backup_core
+[2022-10-09 00:11:28][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_core.zip
+[2022-10-09 00:12:02][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_core.zip, filesize: 48.14 MB
+[2022-10-09 00:12:02][notice]Compressing backup_core completed
+[2022-10-09 00:12:02][notice]Backing up backup_core completed.
+[2022-10-09 00:12:03][notice]Prepare to backup backup_merge files.
+[2022-10-09 00:12:03][notice]File number: 7
+[2022-10-09 00:12:03][notice]Start compressing backup_merge
+[2022-10-09 00:12:06][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip
+[2022-10-09 00:15:25][notice]Not responding for a long time.
+[2022-10-09 00:20:25][notice]Not responding for a long time.
+[2022-10-09 00:24:55][notice]Not responding for a long time.
+[2022-10-09 00:29:55][notice]Add resume event succeeded.. arg1:1665275455 arg2:wpvivid_resume_schedule_event arg3:wpvivid-63420f188feab
+[2022-10-09 00:29:56][error]Task timed out.
+[2022-10-09 00:31:23][notice]Start backing up.
+[2022-10-09 00:31:23][notice]server info fcgi:On max execution time: 900 wp version:6.0.2 php version:7.4.30 db version:5.6.47.0 php ini:safe_mode: memory_limit:256M memory_get_usage:14.51 MB memory_get_peak_usage:24.02 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-10-09 00:31:24][notice]Prepare to backup backup_merge files.
+[2022-10-09 00:31:24][notice]File number: 7
+[2022-10-09 00:31:24][notice]Start compressing backup_merge
+[2022-10-09 00:31:24][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip
+[2022-10-09 00:33:38][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip, filesize: 195.19 MB
+[2022-10-09 00:33:38][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_uploads.part001.zip
+[2022-10-09 00:33:38][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part002.zip
+[2022-10-09 00:34:39][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part002.zip, filesize: 58.80 MB
+[2022-10-09 00:34:39][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_plugin.zip
+[2022-10-09 00:34:40][notice]Prepare to zip files. file: www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part003.zip
+[2022-10-09 00:35:58][notice]Adding zip files completed.www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part003.zip, filesize: 98.35 MB
+[2022-10-09 00:35:58][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_uploads.part002.zip
+[2022-10-09 00:35:58][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_core.zip
+[2022-10-09 00:35:58][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_themes.zip
+[2022-10-09 00:35:58][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_content.zip
+[2022-10-09 00:35:58][notice]Cleaned up file, filename: C:\home\site\wwwroot/wp-content\wpvividbackups\www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_db.zip
+[2022-10-09 00:35:58][notice]Compressing backup_merge completed
+[2022-10-09 00:35:58][notice]Backing up backup_merge completed.
+[2022-10-09 00:36:00][notice]Backup completed.
+[2022-10-09 00:36:00][notice]Backup succeeded.
+[2022-10-09 00:36:00][notice]Start upload.
+[2022-10-09 00:36:01][notice]Check upload folder wpvivid_backup
+[2022-10-09 00:36:01][notice]Start uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip
+[2022-10-09 00:36:01][notice]Check if the server already has the same name file.
+[2022-10-09 00:36:02][notice]Initiate a resumable upload session.
+[2022-10-09 00:36:05][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip Total size: 195.19 MB Uploaded: 25.00 MB speed:6553.6kb/s
+[2022-10-09 00:36:09][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip Total size: 195.19 MB Uploaded: 62.00 MB speed:9699.33kb/s
+[2022-10-09 00:36:13][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip Total size: 195.19 MB Uploaded: 101.00 MB speed:10223.62kb/s
+[2022-10-09 00:36:17][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip Total size: 195.19 MB Uploaded: 139.00 MB speed:9961.47kb/s
+[2022-10-09 00:36:21][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip Total size: 195.19 MB Uploaded: 170.00 MB speed:8126.46kb/s
+[2022-10-09 00:36:25][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip Total size: 195.19 MB Uploaded: 191.00 MB speed:5505.02kb/s
+[2022-10-09 00:36:27][notice]Finished uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part001.zip
+[2022-10-09 00:36:27][notice]Start uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part002.zip
+[2022-10-09 00:36:27][notice]Check if the server already has the same name file.
+[2022-10-09 00:36:27][notice]Initiate a resumable upload session.
+[2022-10-09 00:36:31][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part002.zip Total size: 58.80 MB Uploaded: 31.00 MB speed:8126.46kb/s
+[2022-10-09 00:36:35][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part002.zip Total size: 58.80 MB Uploaded: 58.80 MB speed:7286.85kb/s
+[2022-10-09 00:36:35][notice]Finished uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part002.zip
+[2022-10-09 00:36:35][notice]Start uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part003.zip
+[2022-10-09 00:36:36][notice]Check if the server already has the same name file.
+[2022-10-09 00:36:36][notice]Initiate a resumable upload session.
+[2022-10-09 00:36:39][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part003.zip Total size: 98.35 MB Uploaded: 24.00 MB speed:6291.46kb/s
+[2022-10-09 00:36:43][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part003.zip Total size: 98.35 MB Uploaded: 63.00 MB speed:10223.62kb/s
+[2022-10-09 00:36:47][notice]Uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part003.zip Total size: 98.35 MB Uploaded: 98.35 MB speed:9266.37kb/s
+[2022-10-09 00:36:47][notice]Finished uploading www.naufar.com_wpvivid-63420f188feab_2022-10-09-00-00_backup_all.part003.zip
+[2022-10-09 00:36:48][notice]Cleaned up local files after uploading to remote storages.
+[2022-10-09 00:36:48][notice]Upload succeeded.

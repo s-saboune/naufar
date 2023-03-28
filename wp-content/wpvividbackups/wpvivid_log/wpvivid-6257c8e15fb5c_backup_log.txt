@@ -1,0 +1,87 @@
+Log created: 2022-04-14 07:10:25
+Type: backup
+[2022-04-14 07:10:26][notice]Start backing up.
+[2022-04-14 07:10:26][notice]server info fcgi:Off max execution time: 900 wp version:5.8.3 php version:7.2.34 db version:10.3.34 php ini:safe_mode: memory_limit:256M memory_get_usage:13.51 MB memory_get_peak_usage:13.59 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-04-14 07:10:26][notice]Prepare to backup backup_db files.
+[2022-04-14 07:10:26][notice]Start exporting database.
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_gmedia_term_relationships
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_termmeta
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_postmeta
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_wpvivid_scan_result
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_term_relationships
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_posts
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_loginizer_logs
+[2022-04-14 07:10:26][notice]Preparing to dump table wpov_gmedia_term_meta
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_comments
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_duplicator_packages
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_litespeed_url_file
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_wpvivid_unused_uploads_files
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_podsrel
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_usermeta
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_commentmeta
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_gmedia_term
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_gmedia_log
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_litespeed_url
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_term_taxonomy
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_gmedia
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_users
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_options
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_gmedia_meta
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_terms
+[2022-04-14 07:10:27][notice]Preparing to dump table wpov_links
+[2022-04-14 07:10:27][notice]Exporting database finished.
+[2022-04-14 07:10:27][notice]Start compressing backup_db
+[2022-04-14 07:10:27][notice]Prepare to zip files. file: new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_db.zip
+[2022-04-14 07:10:27][notice]Adding zip files completed.new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_db.zip, filesize: 6.26 MB
+[2022-04-14 07:10:27][notice]Compressing backup_db completed
+[2022-04-14 07:10:27][notice]Backing up backup_db completed.
+[2022-04-14 07:10:27][notice]Prepare to backup backup_themes files.
+[2022-04-14 07:10:27][notice]File number: 464
+[2022-04-14 07:10:27][notice]Start compressing backup_themes
+[2022-04-14 07:10:27][notice]Prepare to zip files. file: new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_themes.zip
+[2022-04-14 07:10:28][notice]Adding zip files completed.new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_themes.zip, filesize: 16.76 MB
+[2022-04-14 07:10:28][notice]Compressing backup_themes completed
+[2022-04-14 07:10:28][notice]Backing up backup_themes completed.
+[2022-04-14 07:10:28][notice]Prepare to backup backup_plugin files.
+[2022-04-14 07:10:28][notice]File number: 5239
+[2022-04-14 07:10:28][notice]Start compressing backup_plugin
+[2022-04-14 07:10:29][notice]Prepare to zip files. file: new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_plugin.zip
+[2022-04-14 07:10:37][notice]Adding zip files completed.new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_plugin.zip, filesize: 74.27 MB
+[2022-04-14 07:10:37][notice]Compressing backup_plugin completed
+[2022-04-14 07:10:37][notice]Backing up backup_plugin completed.
+[2022-04-14 07:10:37][notice]Prepare to backup backup_uploads files.
+[2022-04-14 07:10:37][notice]File number: 432
+[2022-04-14 07:10:37][notice]Start compressing backup_uploads
+[2022-04-14 07:10:37][notice]Prepare to zip files. file: new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_uploads.zip
+[2022-04-14 07:10:39][notice]Adding zip files completed.new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_uploads.zip, filesize: 29.52 MB
+[2022-04-14 07:10:39][notice]Compressing backup_uploads completed
+[2022-04-14 07:10:39][notice]Backing up backup_uploads completed.
+[2022-04-14 07:10:39][notice]Prepare to backup backup_content files.
+[2022-04-14 07:10:39][notice]File number: 86
+[2022-04-14 07:10:39][notice]Start compressing backup_content
+[2022-04-14 07:10:39][notice]Prepare to zip files. file: new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_content.zip
+[2022-04-14 07:10:39][notice]Adding zip files completed.new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_content.zip, filesize: 3.36 MB
+[2022-04-14 07:10:39][notice]Compressing backup_content completed
+[2022-04-14 07:10:39][notice]Backing up backup_content completed.
+[2022-04-14 07:10:39][notice]Prepare to backup backup_core files.
+[2022-04-14 07:10:39][notice]File number: 2253
+[2022-04-14 07:10:39][notice]Start compressing backup_core
+[2022-04-14 07:10:40][notice]Prepare to zip files. file: new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_core.zip
+[2022-04-14 07:10:44][notice]Adding zip files completed.new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_core.zip, filesize: 44.21 MB
+[2022-04-14 07:10:44][notice]Compressing backup_core completed
+[2022-04-14 07:10:44][notice]Backing up backup_core completed.
+[2022-04-14 07:10:44][notice]Prepare to backup backup_merge files.
+[2022-04-14 07:10:44][notice]File number: 6
+[2022-04-14 07:10:44][notice]Start compressing backup_merge
+[2022-04-14 07:10:44][notice]Prepare to zip files. file: new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_all.zip
+[2022-04-14 07:10:53][notice]Adding zip files completed.new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_all.zip, filesize: 78.24 MB
+[2022-04-14 07:10:53][notice]Cleaned up file, filename: /home/projciqf/new.projectn.website/wp-content/wpvividbackups/new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_plugin.zip
+[2022-04-14 07:10:53][notice]Cleaned up file, filename: /home/projciqf/new.projectn.website/wp-content/wpvividbackups/new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_core.zip
+[2022-04-14 07:10:53][notice]Cleaned up file, filename: /home/projciqf/new.projectn.website/wp-content/wpvividbackups/new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_uploads.zip
+[2022-04-14 07:10:53][notice]Cleaned up file, filename: /home/projciqf/new.projectn.website/wp-content/wpvividbackups/new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_themes.zip
+[2022-04-14 07:10:53][notice]Cleaned up file, filename: /home/projciqf/new.projectn.website/wp-content/wpvividbackups/new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_db.zip
+[2022-04-14 07:10:53][notice]Cleaned up file, filename: /home/projciqf/new.projectn.website/wp-content/wpvividbackups/new.projectn.website_wpvivid-6257c8e15fb5c_2022-04-14-07-10_backup_content.zip
+[2022-04-14 07:10:53][notice]Compressing backup_merge completed
+[2022-04-14 07:10:53][notice]Backing up backup_merge completed.
+[2022-04-14 07:10:53][notice]Backup completed.
+[2022-04-14 07:10:53][notice]Backup succeeded.
